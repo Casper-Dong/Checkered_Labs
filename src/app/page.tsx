@@ -94,7 +94,7 @@ export default function Home() {
           opacity: 0.8,
         }}
       >
-        Building the future of tech for near Earth orbit in Waterloo!
+        Building the future of tech for near Earth orbit in Waterloo.
       </div>
 
       <button
